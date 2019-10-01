@@ -78,3 +78,8 @@ MIT
 
 [npm]: https://img.shields.io/npm/v/gmail-api-parse-message.svg
 [npm-url]: https://npmjs.com/package/gmail-api-parse-message
+
+
+### TODO
+Refer:
+https://sigparser.com/developers/email-parsing/gmail-api/
